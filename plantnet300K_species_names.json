@@ -1,0 +1,614 @@
+{
+  "1": {
+    "name": "pink primrose",
+    "description": "Pink primrose is a low-growing perennial known for its vibrant pink flowers that bloom in early spring. It prefers well-drained soil and partial shade.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "2": {
+    "name": "hard-leaved pocket orchid",
+    "description": "This orchid species features thick, leathery leaves and delicate white or pink flowers. It thrives in humid environments with indirect light.",
+    "temperature": "18-25",
+    "humidity": "60-80"
+  },
+  "3": {
+    "name": "canterbury bells",
+    "description": "Canterbury bells are known for their tall spikes of bell-shaped flowers in various colors. They thrive in cool, well-drained soil.",
+    "temperature": "15-20",
+    "humidity": "50-60"
+  },
+  "4": {
+    "name": "sweet pea",
+    "description": "Sweet pea produces fragrant, colorful flowers and prefers cool, well-drained soil.",
+    "temperature": "15-20",
+    "humidity": "50-60"
+  },
+  "5": {
+    "name": "english marigold",
+    "description": "English marigold has bright, cheerful flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "6": {
+    "name": "tiger lily",
+    "description": "Tiger lily features striking orange flowers with black spots and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "7": {
+    "name": "moon orchid",
+    "description": "Moon orchid is known for its delicate, fragrant flowers and needs warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "8": {
+    "name": "bird of paradise",
+    "description": "Bird of paradise produces exotic, colorful flowers and thrives in warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-70"
+  },
+  "9": {
+    "name": "monkshood",
+    "description": "Monkshood features tall spikes of hood-shaped flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "10": {
+    "name": "globe thistle",
+    "description": "Globe thistle has striking, spherical flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "11": {
+    "name": "snapdragon",
+    "description": "Snapdragon produces tall spikes of colorful flowers and prefers cool, well-drained soil.",
+    "temperature": "15-20",
+    "humidity": "50-60"
+  },
+  "12": {
+    "name": "colt's foot",
+    "description": "Colt's foot features bright yellow flowers and thrives in cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "13": {
+    "name": "king protea",
+    "description": "King protea is known for its large, striking flowers and prefers warm temperatures and low humidity.",
+    "temperature": "15-25",
+    "humidity": "40-50"
+  },
+  "14": {
+    "name": "spear thistle",
+    "description": "Spear thistle produces tall spikes of spiky flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "15": {
+    "name": "yellow iris",
+    "description": "Yellow iris features bright yellow flowers and prefers sunny, moist environments.",
+    "temperature": "10-20",
+    "humidity": "60-80"
+  },
+  "16": {
+    "name": "globe-flower",
+    "description": "Globe-flower has striking, globe-shaped flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "17": {
+    "name": "purple coneflower",
+    "description": "Purple coneflower produces vibrant purple flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "18": {
+    "name": "peruvian lily",
+    "description": "Peruvian lily features colorful, trumpet-shaped flowers and prefers sunny to partial shade with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "19": {
+    "name": "balloon flower",
+    "description": "Balloon flower produces balloon-shaped buds that open into star-shaped flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "20": {
+    "name": "giant white arum lily",
+    "description": "Giant white arum lily features large, elegant white flowers and prefers warm, moist environments.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "21": {
+    "name": "fire lily",
+    "description": "Fire lily has striking red flowers and thrives in warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "22": {
+    "name": "pincushion flower",
+    "description": "Pincushion flower features unique, spiky flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "23": {
+    "name": "fritillary",
+    "description": "Fritillary has distinctive checkered flowers and prefers cool, well-drained soil.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "24": {
+    "name": "red ginger",
+    "description": "Red ginger produces vibrant red flowers and thrives in warm, humid conditions.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "25": {
+    "name": "grape hyacinth",
+    "description": "Grape hyacinth features clusters of small, grape-like flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "26": {
+    "name": "corn poppy",
+    "description": "Corn poppy produces bright red flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "27": {
+    "name": "celosia",
+    "description": "Celosia features colorful, flame-like flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "20-30",
+    "humidity": "40-60"
+  },
+  "28": {
+    "name": "stemless gentian",
+    "description": "Stemless gentian has striking blue flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "29": {
+    "name": "artichoke",
+    "description": "Artichoke produces large, thistle-like flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "30": {
+    "name": "sweet william",
+    "description": "Sweet william features clusters of colorful flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "31": {
+    "name": "carnation",
+    "description": "Carnation produces fragrant, colorful flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "32": {
+    "name": "garden phlox",
+    "description": "Garden phlox has vibrant, clustered flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "33": {
+    "name": "love in the mist",
+    "description": "Love in the mist features unique, misty flowers and prefers cool, well-drained soil.",
+    "temperature": "15-20",
+    "humidity": "50-60"
+  },
+  "34": {
+    "name": "cosmos",
+    "description": "Cosmos has bright, daisy-like flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "18-27",
+    "humidity": "40-60"
+  },
+  "35": {
+    "name": "alpine sea holly",
+    "description": "Alpine sea holly features spiky, blue flowers and prefers cool, well-drained soil.",
+    "temperature": "10-20",
+    "humidity": "40-60"
+  },
+  "36": {
+    "name": "ruby-lipped cattleya",
+    "description": "Ruby-lipped cattleya is known for its vibrant orchids and needs warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "37": {
+    "name": "nerine",
+    "description": "Nerine features striking, trumpet-shaped flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "38": {
+    "name": "great masterwort",
+    "description": "Great masterwort has star-shaped flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "39": {
+    "name": "siam tulip",
+    "description": "Siam tulip produces vibrant, tropical flowers and thrives in warm, humid conditions.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "40": {
+    "name": "lenten rose",
+    "description": "Lenten rose features delicate, early-blooming flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "41": {
+    "name": "barbeton daisy",
+    "description": "Barbeton daisy has vibrant, daisy-like flowers and thrives in warm, sunny locations.",
+    "temperature": "18-27",
+    "humidity": "40-60"
+  },
+  "42": {
+    "name": "daffodil",
+    "description": "Daffodil features bright, trumpet-shaped flowers and prefers cool, well-drained soil.",
+    "temperature": "10-15",
+    "humidity": "50-60"
+  },
+  "43": {
+    "name": "gladiolus",
+    "description": "Gladiolus produces tall spikes of colorful flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "44": {
+    "name": "poinsettia",
+    "description": "Poinsettia is known for its vibrant red bracts and needs warm temperatures and high humidity.",
+    "temperature": "18-27",
+    "humidity": "60-80"
+  },
+  "45": {
+    "name": "bolero deep blue",
+    "description": "Bolero deep blue features striking, deep blue flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "46": {
+    "name": "wallflower",
+    "description": "Wallflower produces clusters of fragrant flowers and prefers cool, well-drained soil.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "47": {
+    "name": "marigold",
+    "description": "Marigold has bright, cheerful flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "48": {
+    "name": "buttercup",
+    "description": "Buttercup features bright yellow flowers and prefers cool, moist environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "49": {
+    "name": "oxeye daisy",
+    "description": "Oxeye daisy produces cheerful, white flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "50": {
+    "name": "common dandelion",
+    "description": "Common dandelion features bright yellow flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "10-20",
+    "humidity": "40-60"
+  },
+  "51": {
+    "name": "petunia",
+    "description": "Petunia has vibrant, colorful flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "52": {
+    "name": "wild pansy",
+    "description": "Wild pansy features small, colorful flowers and thrives in cool, well-drained soil.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "53": {
+    "name": "primula",
+    "description": "Primula produces colorful, early-blooming flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "54": {
+    "name": "sunflower",
+    "description": "Sunflower features large, bright yellow flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "18-27",
+    "humidity": "40-60"
+  },
+  "55": {
+    "name": "pelargonium",
+    "description": "Pelargonium, also known as geranium, produces colorful flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "56": {
+    "name": "bishop of llandaff dahlia",
+    "description": "Bishop of Llandaff dahlia features dark foliage and vibrant flowers, thriving in warm, sunny locations.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "57": {
+    "name": "gaura",
+    "description": "Gaura has delicate, airy flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "58": {
+    "name": "geranium",
+    "description": "Geranium produces vibrant flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "59": {
+    "name": "tithonia",
+    "description": "Tithonia, or Mexican sunflower, features bright orange flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "20-30",
+    "humidity": "40-60"
+  },
+  "60": {
+    "name": "pink-yellow dahlia",
+    "description": "Pink-yellow dahlia has vibrant, multi-colored flowers and thrives in sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "61": {
+    "name": "cautleya spicata",
+    "description": "Cautleya spicata produces striking flowers and prefers warm, sunny locations.",
+    "temperature": "18-27",
+    "humidity": "50-60"
+  },
+  "62": {
+    "name": "japanese anemone",
+    "description": "Japanese anemone features elegant, daisy-like flowers and thrives in shaded, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "63": {
+    "name": "black-eyed susan",
+    "description": "Black-eyed Susan produces cheerful, daisy-like flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "64": {
+    "name": "silverbush",
+    "description": "Silverbush features attractive silver foliage and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "65": {
+    "name": "californian poppy",
+    "description": "Californian poppy has vibrant orange flowers and thrives in sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "66": {
+    "name": "osteospermum",
+    "description": "Osteospermum features daisy-like flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "67": {
+    "name": "spring crocus",
+    "description": "Spring crocus produces early-blooming flowers and prefers cool, well-drained soil.",
+    "temperature": "10-15",
+    "humidity": "50-60"
+  },
+  "68": {
+    "name": "bearded iris",
+    "description": "Bearded iris features dramatic, showy flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "69": {
+    "name": "windflower",
+    "description": "Windflower, or anemone, features delicate flowers and thrives in cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "70": {
+    "name": "tree poppy",
+    "description": "Tree poppy produces large, striking flowers and thrives in sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "71": {
+    "name": "gazania",
+    "description": "Gazania features bright, daisy-like flowers and thrives in sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "72": {
+    "name": "azalea",
+    "description": "Azalea produces colorful flowers and thrives in partially shaded locations with acidic soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "73": {
+    "name": "water lily",
+    "description": "Water lily features beautiful floating flowers and thrives in water gardens with full sunlight.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "74": {
+    "name": "rose",
+    "description": "Rose produces classic, fragrant flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "75": {
+    "name": "thorn apple",
+    "description": "Thorn apple, or jimsonweed, produces striking flowers and needs warm temperatures and well-drained soil.",
+    "temperature": "20-30",
+    "humidity": "40-60"
+  },
+  "76": {
+    "name": "morning glory",
+    "description": "Morning glory features large, colorful flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "77": {
+    "name": "passion flower",
+    "description": "Passion flower has exotic blooms and needs warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "78": {
+    "name": "lotus",
+    "description": "Lotus produces beautiful, large flowers and thrives in water gardens with full sunlight.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "79": {
+    "name": "toad lily",
+    "description": "Toad lily features unique, spotted flowers and prefers shaded, moist environments.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "80": {
+    "name": "anthurium",
+    "description": "Anthurium, or flamingo flower, features glossy, colorful spathes and needs warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "81": {
+    "name": "frangipani",
+    "description": "Frangipani produces fragrant, tropical flowers and thrives in warm, sunny locations.",
+    "temperature": "20-30",
+    "humidity": "50-60"
+  },
+  "82": {
+    "name": "clematis",
+    "description": "Clematis features large, showy flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "83": {
+    "name": "hibiscus",
+    "description": "Hibiscus produces large, colorful flowers and thrives in warm, sunny locations.",
+    "temperature": "20-30",
+    "humidity": "50-60"
+  },
+  "84": {
+    "name": "columbine",
+    "description": "Columbine features intricate, bell-shaped flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "85": {
+    "name": "desert-rose",
+    "description": "Desert-rose produces striking, succulent flowers and thrives in warm, sunny locations.",
+    "temperature": "20-30",
+    "humidity": "40-60"
+  },
+  "86": {
+    "name": "tree mallow",
+    "description": "Tree mallow has vibrant flowers and prefers sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "87": {
+    "name": "magnolia",
+    "description": "Magnolia features large, fragrant flowers and thrives in sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "88": {
+    "name": "cyclamen",
+    "description": "Cyclamen features delicate, heart-shaped flowers and thrives in cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "89": {
+    "name": "watercress",
+    "description": "Watercress grows in water or very wet soil and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "70-80"
+  },
+  "90": {
+    "name": "canna lily",
+    "description": "Canna lily produces vibrant, tropical flowers and needs warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "91": {
+    "name": "hippeastrum",
+    "description": "Hippeastrum, or amaryllis, features large, showy flowers and thrives in warm, sunny locations.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+  "92": {
+    "name": "bee balm",
+    "description": "Bee balm produces aromatic flowers and thrives in sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+  "93": {
+    "name": "ball moss",
+    "description": "Ball moss grows on trees and prefers warm, humid environments.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+  "94": {
+    "name": "foxglove",
+    "description": "Foxglove features tall spikes of tubular flowers and prefers cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+  "95": {
+    "name": "bougainvillea",
+    "description": "Bougainvillea produces vibrant, papery flowers and thrives in sunny, well-drained soil.",
+    "temperature": "20-30",
+    "humidity": "40-60"
+  },
+  "96": {
+    "name": "camellia",
+    "description": "Camellia features large, beautiful flowers and thrives in cool, shaded environments.",
+    "temperature": "10-20",
+    "humidity": "50-60"
+  },
+ "97": {
+    "name": "mallow",
+    "description": "Mallow produces bright, cheerful flowers and prefers sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "50-60"
+  },
+ "98": {
+    "name": "mexican petunia",
+    "description": "Mexican petunia produces vibrant, trumpet-shaped flowers and thrives in warm, sunny locations.",
+    "temperature": "20-30",
+    "humidity": "50-60"
+  },
+ "99": {
+    "name": "bromelia",
+    "description": "Bromelia produces striking, exotic flowers and needs warm temperatures and high humidity.",
+    "temperature": "20-30",
+    "humidity": "60-80"
+  },
+ "100": {
+    "name": "blanket flower",
+    "description": "Blanket flower features bright, daisy-like flowers and thrives in sunny, well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  },
+ "101": {
+    "name": "trumpet creeper",
+    "description": "Trumpet creeper produces large, trumpet-shaped flowers and thrives in sunny locations.",
+    "temperature": "20-30",
+    "humidity": "40-60"
+  },
+ "102": {
+    "name": "blackberry lily",
+    "description": "Blackberry lily features unique, spotted flowers and prefers sunny locations with well-drained soil.",
+    "temperature": "15-25",
+    "humidity": "40-60"
+  }
+}

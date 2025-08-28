@@ -1,0 +1,4 @@
+aiogram==3.0.0
+aiohttp==3.8.4
+langchain-core==0.1.12
+langchain-gigachat==0.1.3
